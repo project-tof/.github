@@ -3,7 +3,9 @@
 </p>
 
 ## About
-The Project Tracking-on Fire is a mobile application developed during [NASA International Space Apps Challenge 2021](https://www.spaceappschallenge.org/) that predicts, tracks and monitors heat waves looking for potential damages using [NASA Open APIs](https://api.nasa.gov/) and machine learning.
+
+The Project Tracking-on Fire (TOF) is a mobile application developed during [NASA International Space Apps Challenge 2021](https://www.spaceappschallenge.org/) that predicts, tracks and monitors heat waves looking for potential damages using [NASA Open APIs](https://api.nasa.gov/) and machine learning.
 
 ## Authors
+
 A project made by [Gabriel Willian Bartmanovicz](https://github.com/obielwb), [João Pedro Ferreira Barbosa](https://github.com/oJPBarbosa), [Kevin Quinália](https://github.com/keevineeds), [Víctor Augusto](https://github.com/VauP) and [Rafael Romanhole Borrozino](https://github.com/romanhole).
